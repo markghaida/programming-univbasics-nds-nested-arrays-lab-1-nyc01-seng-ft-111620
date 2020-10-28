@@ -49,7 +49,7 @@ def sorted_matrix
   "Strawberries"
   ]
     
-    ]
+    
 end
 
 def matrix_lookup(matrix, row, column)
