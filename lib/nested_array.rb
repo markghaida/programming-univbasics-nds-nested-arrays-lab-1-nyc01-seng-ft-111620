@@ -34,16 +34,16 @@ def sorted_matrix
   all_produce = [
     
   [
-  "Eggplant"
+  "Eggplant",
   "Grapefruit",
   "Oranges",
   "Pineapple",
-  "Watermelon",
+  "Watermelon"
   ]
 
   [
   "Avocadoes",
-  "Asparagus"
+  "Asparagus",
   "Grapes",
   "Potatoes",
   "Strawberries"
