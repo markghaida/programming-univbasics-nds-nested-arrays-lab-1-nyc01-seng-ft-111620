@@ -33,7 +33,8 @@ def sorted_matrix
   
   all_produce = [
     
-    ["Eggplant"
+    [
+  "Eggplant"
   "Grapefruit",
   "Pineapple",
   "Oranges",
