@@ -48,8 +48,6 @@ def sorted_matrix
   "Potatoes",
   "Strawberries"
   ]
-
-
     
     ]
 end
